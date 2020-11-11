@@ -1,5 +1,7 @@
 Home Insurance Model
 
+The goal of this model building exercise was to predict customers that will churn based on the given dataset.
+
 datasource: https://www.kaggle.com/ycanario/home-insurance
 The raw data file has been removed due to size and should be added under data as home_insurance.csv for the workflow to work correctly.
 

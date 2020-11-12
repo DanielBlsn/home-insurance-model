@@ -1,0 +1,2 @@
+Right now I don't have enough magic powers to create unit tests as well,
+in the short period of time required for this exercise.
